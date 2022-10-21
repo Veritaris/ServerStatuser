@@ -1,0 +1,10 @@
+name: Template
+main: org.dreamfinity.template.Main
+author: Author
+load: STARTUP
+authors: []
+website: https://dreamfinity.org
+version: 1.0
+commands:
+  template:
+    aliases: [temp]
